@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
+
+# Model files (optional)
+# Uncomment below if you DON'T want to upload model
+ random_forest_model.pkl
+ model_columns.pkl
+
+# Dataset (optional)
+# Telco-Customer-Churn.csv
