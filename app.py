@@ -12,7 +12,7 @@ with open("model_columns.pkl", "rb") as f:
 # Page config
 st.set_page_config(page_title="Customer Churn Prediction", layout="wide")
 
-st.title("Customer Churn Prediction App")
+st.title("Customer Churn Prediction")
 st.write("Predict whether a telecom customer is likely to churn.")
 
 st.write("---")
